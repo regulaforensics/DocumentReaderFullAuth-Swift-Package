@@ -1,0 +1,1 @@
+# DocumentReaderFullAuth-Swift-Package
