@@ -12,7 +12,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "FullAuthStage",
-            url: "https://pods.regulaforensics.com/Stage/FullAuthStage/9.9.20925/DocumentReaderCoreStage_fullauth_9.9.20925.zip",
-            checksum: "04a8167d8da163c4a8c811dc45edb5a9f45d4428ad865130237619596acd0e69"),
+            url: "https://pods.regulaforensics.com/Stage/FullAuthStage/9.9.20949/DocumentReaderCoreStage_fullauth_9.9.20949.zip",
+            checksum: "df10df2ec9dac1639bed0d48f0f2e795cdc848f9489b717a865ec96c9ec5a71d"),
     ]
 )
